@@ -49,17 +49,17 @@ https://raw.gitmirror.com/TTDNS/Cat/main/TTS.txt
 
 
 
-### 嗨！👋,我是TTS .<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="18%" /><br>
+### 嗨！👋,我是TTDNS .<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="18%" /><br>
 - 🔭 我目前正在做一些很酷的事情。
 - 🌱 我目前正在学习我喜欢的一切。
 - 💬 向我询问与AdGuard相关的任何事情.
 - 📫 如何联系我：okhel42071@appsamo.com
 - 😄 有趣的事实：平均而言，惯用右手的人比惯用左手的人多活九年.
 
-你是我 ![Visitor Count](https://profile-counter.glitch.me/TTS/count.svg) 访客.
+你是我 ![Visitor Count](https://profile-counter.glitch.me/TTDNS/count.svg) 访客.
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tts)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TTDNS)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 </a>
@@ -67,7 +67,7 @@ https://raw.gitmirror.com/TTDNS/Cat/main/TTS.txt
 <details>
   <summary>更多统计数据</summary>
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=TTS&theme=rose-pine&hide_border=%E5%81%87&border_radius=5&locale=zh_Hans&card_width=1200)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TTDNS&theme=rose-pine&hide_border=%E5%81%87&border_radius=5&locale=zh_Hans&card_width=1200)](https://git.io/streak-stats)
 
 
 </details>
