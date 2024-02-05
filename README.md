@@ -67,7 +67,7 @@ https://raw.gitmirror.com/TTDNS/Cat/main/TTS.txt
 <details>
   <summary>更多统计数据</summary>
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=TTDNS&theme=rose-pine&hide_border=%E5%81%87&border_radius=5&locale=zh_Hans&card_width=1200)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TTDNS&theme=rose-pine&hide_border=%E5%81%87&border_radius=5&locale=zh_Hans&card_width=500)](https://git.io/streak-stats)
 
 
 </details>
