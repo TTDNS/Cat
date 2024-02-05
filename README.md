@@ -40,11 +40,11 @@
 # 规则列表📃
 Github
 ```
-https://raw.githubusercontent.com/wycxqsf/AD--/main/TTS.txt
+https://raw.githubusercontent.com/TTDNS/Cat/main/TTS.txt
 ```
 加速链接
 ```
-https://raw.gitmirror.com/wycxqsf/AD--/main/TTS.txt
+https://raw.gitmirror.com/TTDNS/Cat/main/TTS.txt
 ```
 
 
