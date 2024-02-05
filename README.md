@@ -109,7 +109,7 @@ https://raw.gitmirror.com/TTDNS/Cat/main/TTS.txt
 
 ---
 
-制作 .TTS  ❤️
+制作 .TTDNS  ❤️
 
 
 
