@@ -98,7 +98,7 @@ https://raw.gitmirror.com/TTDNS/Cat/main/TTS.txt
 
 ## 🤔 反馈
 
-欢迎投稿！如果您发现有广告没有拦截，请随时[打开问题](https://github.com/TTDNS/Cat/issues/new/choose)或提交拉取请求.
+欢迎提问！如果您发现有广告没有拦截，请随时[打开问题](https://github.com/TTDNS/Cat/issues/new/choose)或提交拉取请求.
 
 
 
