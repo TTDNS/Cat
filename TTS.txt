@@ -1,5 +1,6 @@
 ! Title: TTS
 ! Homepage: https://github.com/TTDNS/Cat?tab=readme-ov-file
+！my.vipipRules.toptable
 ||open.e.kuaishou.com^
 ||p3-webcast.douyinpic.com^
 ||pull-flv-l11.douyincdn.com^
