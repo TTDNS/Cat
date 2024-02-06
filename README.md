@@ -38,13 +38,13 @@
 
 
 # 规则列表📃
-Github
-```
-https://raw.githubusercontent.com/TTDNS/Cat/main/TTS.txt
-```
-加速链接
+黑名单
 ```
 https://raw.gitmirror.com/TTDNS/Cat/main/TTS.txt
+```
+白名单
+```
+https://raw.gitmirror.com/TTDNS/Cat/main/%E7%99%BD%E5%90%8D%E5%8D%95.txt
 ```
 
 
