@@ -53,7 +53,7 @@ https://raw.gitmirror.com/TTDNS/Cat/main/TTS.txt
 - 🔭 我目前正在做一些很酷的事情。
 - 🌱 我目前正在学习我喜欢的一切。
 - 💬 向我询问与AdGuard相关的任何事情.
-- 📫 如何联系我：okhel42071@appsamo.com
+- 🤗 阅读更多关于我的CSDN的信息[这里](https://blog.csdn.net/qq_44231797?spm=1000.2115.3001.5343)
 - 😄 有趣的事实：平均而言，惯用右手的人比惯用左手的人多活九年.
 
 你是我 ![Visitor Count](https://profile-counter.glitch.me/TTDNS/count.svg) 访客.
@@ -96,7 +96,7 @@ https://raw.gitmirror.com/TTDNS/Cat/main/TTS.txt
 
 </div>
 
-## 🤗 反馈
+## 🤔 反馈
 
 欢迎投稿！如果您发现有广告没有拦截，请随时[打开问题](https://github.com/TTDNS/Cat/issues/new/choose)或提交拉取请求.
 
@@ -110,6 +110,9 @@ https://raw.gitmirror.com/TTDNS/Cat/main/TTS.txt
 ---
 
 制作 .TTDNS  ❤️
+
+
+
 
 
 
