@@ -53,7 +53,7 @@ https://raw.gitmirror.com/TTDNS/Cat/main/%E7%99%BD%E5%90%8D%E5%8D%95.txt
 - 🔭 我目前正在做一些很酷的事情。
 - 🌱 我目前正在学习我喜欢的一切。
 - 💬 向我询问与AdGuard相关的任何事情.
-- 🤗 阅读更多关于我的规则收集信息：[这里](https://gitee.com/TTSDNS/Collection-of-Advertising-Rules)
+- 🤗 阅读更多关于我的规则收集信息：[这里](https://github.com/TTDNS/Collection-of-Advertising-Rules)
 - 😄 有趣的事实：平均而言，惯用右手的人比惯用左手的人多活九年.
 
 你是我 ![Visitor Count](https://profile-counter.glitch.me/TTDNS/count.svg) 访客.
