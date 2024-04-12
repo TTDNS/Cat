@@ -36,7 +36,7 @@
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
 
 
-
+## 在添加规则之前请务必关闭抖音和快手的过滤拦截，此规则包含抖音和快手的域名通杀
 # 规则列表📃
 过滤规则
 ```
