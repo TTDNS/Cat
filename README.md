@@ -38,13 +38,13 @@
 
 
 # 规则列表📃
-黑名单
+过滤规则
 ```
-https://raw.gitmirror.com/TTDNS/Cat/main/TTS.txt
+https://raw.githubusercontent.com/TTDNS/Cat/main/TT%E6%8B%92%E7%BB%9D%E5%88%97%E8%A1%A8%E6%B8%85%E5%8D%95%20(%E6%9B%B4%E6%96%B0%E4%B8%AD).tx
 ```
-白名单
+DNS
 ```
-https://raw.gitmirror.com/TTDNS/Cat/main/%E7%99%BD%E5%90%8D%E5%8D%95.txt
+https://raw.githubusercontent.com/TTDNS/Cat/main/DNS.TX
 ```
 
 
