@@ -8,7 +8,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnhzdXFpamo4ZDFudHNqeTFkcXdzYzM1OGxtdWZzd2Zhc2EwazA0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XxOACn4darEj15r5v/giphy.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/>
   
 
-# 专注于广告拦截
+# 适用于AdGuard客户端的广告规则
 
 </div>
 
@@ -36,7 +36,7 @@
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
 
 
-# 规则列表📃
+# 规则订阅📃
 自定义规则
 ```
 https://raw.githubusercontent.com/TTDNS/Cat/main/TT%E6%8B%92%E7%BB%9D%E5%88%97%E8%A1%A8%E6%B8%85%E5%8D%95%20(%E6%9B%B4%E6%96%B0%E4%B8%AD).txt
