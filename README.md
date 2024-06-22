@@ -97,7 +97,7 @@ https://raw.githubusercontent.com/TTDNS/Cat/main/DNS.TXT
 
 ## 🤔 反馈
 
-欢迎提问！如果您发现有广告没有拦截，请随时[打开问题](https://github.com/TTDNS/Cat/issues/new/choose)或者[使用讨论](https://github.com/TTDNS/Cat/discussions)获取帮助
+欢迎提问！如果您发现有广告没有拦截，请随时[打开问题](https://github.com/TTDNS/Cat/issues/new/choose)获取帮助
 
 
 
