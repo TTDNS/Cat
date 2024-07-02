@@ -108,7 +108,7 @@ Adblock Plus 2.0]
 ||open.snssdk.com^
 ||static.zhihu.com^
 ||vdn*.vzuu.com^
-||pic*.zhimg.com^
+#||pic*.zhimg.com^
 #西瓜视频广告域名
 ||pull-*-*.ixigua.com^
 ||v*-default.ixigua.com^
