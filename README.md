@@ -39,7 +39,7 @@
 # 规则订阅📃
 自定义规则
 ```
-https://raw.githubusercontent.com/TTDNS/Cat/main/TT%E6%8B%92%E7%BB%9D%E5%88%97%E8%A1%A8%E6%B8%85%E5%8D%95%20(%E6%9B%B4%E6%96%B0%E4%B8%AD).txt
+https://raw.gitmirror.com/TTDNS/Cat/main/TT%E6%8B%92%E7%BB%9D%E5%88%97%E8%A1%A8%E6%B8%85%E5%8D%95%20(%E6%9B%B4%E6%96%B0%E4%B8%AD).txt
 ```
 
 DNS规则
