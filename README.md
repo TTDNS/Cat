@@ -44,7 +44,7 @@ https://raw.gitmirror.com/TTDNS/Cat/main/TT%E6%8B%92%E7%BB%9D%E5%88%97%E8%A1%A8%
 
 DNS规则
 ```
-https://raw.gitmirror.com/TTDNS/Cat/main/DNS.TXT
+https://raw.gitmirror.com/TTDNS/Cat/refs/heads/main/DNS.TXT
 ```
 
 
