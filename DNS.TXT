@@ -15,7 +15,7 @@ Adblock Plus 2.0]
 @@||pic1.zhimg.com
 #[喵趣漫画]
 # 线路异常
-@@||bcebos.com^
+#@@||bcebos.com^
 #[微信]
 # 公众号视频加载失败
 @@||h5vv6.video.qq.com^
