@@ -44,7 +44,7 @@ https://raw.githubusercontent.com/TTDNS/Cat/refs/heads/main/TT%E6%8B%92%E7%BB%9D
 
 DNS规则
 ```
-https://raw.gitmirror.com/TTDNS/Cat/refs/heads/main/DNS.TXT
+https://raw.githubusercontent.com/TTDNS/Cat/refs/heads/main/DNS.TXT
 ```
 
 
