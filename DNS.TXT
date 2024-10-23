@@ -15,10 +15,14 @@ Adblock Plus 2.0]
 @@||pic1.zhimg.com
 #[喵趣漫画]
 # 线路异常
-#@@||bcebos.com^
+@@||bcebos.com^
 #[微信]
 # 公众号视频加载失败
 @@||h5vv6.video.qq.com^
+# 表情包搜索
+@@||wxapp.tc.qq.com^
+#饿了么小程序
+@@||waimai-guide.ele.me^
 #-------------------------分割线---------------------------
 #-------------------------分割线---------------------------
 #-------------------------分割线---------------------------
@@ -43,12 +47,12 @@ Adblock Plus 2.0]
 ||sdk.e.qq.com^
 ||pgdt.ugdtimg.com^
 ||wxa.wxs.qq.com^
+||*.video.qq.com^
 ||qzs.gdtimg.com^
 ||gdt.qq.com^
 ||kde.qq.com^
 ||info.zb.qq.com^
 ||bk.info.zb.qq.com^
-||*.video.qq.com^
 ||mtt.eve.mdt.qq.com^
 #京东广告
 ||mapi.m.jd.com^
@@ -93,6 +97,25 @@ Adblock Plus 2.0]
 ||static.zhihu.com^
 ||vdn*.vzuu.com^
 #||pic*.zhimg.com^
+#喜马拉雅
+||api-c.dutils.com^
+||cdn-api-verify.mob.com^
+||gslbtx.ximalaya.com^
+||mres.ximalaya.com^
+||adse.ximalaya.com^
+||appstoreort-stsdk.vivo.com.cn^
+||b.qchannel03.cn^
+||m-adnet.dutils.com^
+||pv.sohu.com^
+||m-adnet.hiaiabc.com^
+||collector.ximalaya.com^
+||m-mpl.hiaiabc.com^
+||abroad-sdk-push.dutils.com^
+||log-verify.dutils.com^
+||api-p*.yksdks.com^
+||status-ipv6.jpush.cn^
+||stats.jpush.cn^
+||bjb.openstorage.cn^
 #西瓜视频广告域名
 ||pull-*-*.ixigua.com^
 ||v*-default.ixigua.com^
@@ -112,6 +135,9 @@ Adblock Plus 2.0]
 #游戏广告
 ||microfun.cn^
 #微信小程序
+||appcfg.v.qq.com^
+||as.yyymvp.com^
+||wx.qlogo.cn^
 ||obd.gtimg.com^
 #广告投放平台
 ||sdk-open-phone.getui.com^
@@ -135,6 +161,7 @@ Adblock Plus 2.0]
 ||aligames.com^
 ||taptap.cn^
 #字节跳动
+||log.snssdk.com^
 ||mssdk.volces.com^
 ||ugsdk.cn^
 ||vas-lf-x.snssdk.com^
@@ -159,5 +186,3 @@ Adblock Plus 2.0]
 /.*umeng.*/
 /.*tsyouto.*/
 /.*bytegecko.*/
-
-
