@@ -50,7 +50,7 @@ https://raw.githubusercontent.com/TTDNS/Cat/refs/heads/main/DNS.TXT
 
 <h2 id="b">上游列表</h2>
 
-- [AdRules AdBlock List](https://github.com/AdguardTeam/AdguardFilters）
+- [ AdRules AdBlock List](https://adrules.top/adblock.txt)
 - [ AdRules DNS List](https://adrules.top/dns.txt)
 - [anti-AD for AdGuard](https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-adguard.txt)
 - [anti-AD](https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt)
