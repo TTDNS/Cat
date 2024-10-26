@@ -48,7 +48,8 @@ https://raw.githubusercontent.com/TTDNS/Cat/refs/heads/main/DNS.TXT
 ```
 </ul>
 
-<h2 id="b">上游列表</h2>
+<details>
+  <summary>上游列表</summary>
 
 - [ AdRules AdBlock List](https://adrules.top/adblock.txt)
 - [ AdRules DNS List](https://adrules.top/dns.txt)
