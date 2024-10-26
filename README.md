@@ -46,7 +46,16 @@ DNS规则
 ```
 https://raw.githubusercontent.com/TTDNS/Cat/refs/heads/main/DNS.TXT
 ```
+</ul>
 
+<h2 id="b">上游列表</h2>
+
+- [AdRules AdBlock List]([https://github.com/AdguardTeam/AdguardFilters](https://adrules.top/adblock.txt))
+- [ AdRules DNS List](https://adrules.top/dns.txt)
+- [anti-AD for AdGuard](https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-adguard.txt)
+- [anti-AD](https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt)
+- [AWAvenue Ads Rule](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt)
+- [海哥](https://github.com/2771936993/HG)
 
 ### 嗨！👋,我是TTDNS .<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="18%" /><br>
 - 🔭 我目前正在做一些很酷的事情。
