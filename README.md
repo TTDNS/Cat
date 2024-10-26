@@ -58,6 +58,9 @@ https://raw.githubusercontent.com/TTDNS/Cat/refs/heads/main/DNS.TXT
 - [AWAvenue Ads Rule](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt)
 - [海哥](https://github.com/2771936993/HG)
 
+</details>
+  
+<hr></hr>
 ### 嗨！👋,我是TTDNS .<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="18%" /><br>
 - 🔭 我目前正在做一些很酷的事情。
 - 🌱 我目前正在学习我喜欢的一切。
