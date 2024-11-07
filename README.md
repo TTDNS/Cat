@@ -68,7 +68,7 @@ https://github.com/TTDNS/Cat/raw/refs/heads/main/Kato.txt
 - [anti-AD](https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt)
 - [AWAvenue Ads Rule](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt)
 - [海哥](https://github.com/2771936993/HG)
-
+- [睛雅AdGuard](http://rssv.cn/adguard/)
 </details>
   
 <hr></hr>
