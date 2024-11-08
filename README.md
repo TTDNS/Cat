@@ -125,7 +125,7 @@ https://github.com/TTDNS/Cat/raw/refs/heads/main/Kato.txt
 
 💙 如果你喜欢这个项目，那就给它一个⭐，并与朋友分享吧！
 <p align="left">
-  <a href="https://github.com/sponsors/DenverCoder1"><img alt="Sponsor with Github" title="Sponsor with Github" src="https://img.shields.io/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/TTDNS?tab=repositories"><img alt="Sponsor with Github" title="Sponsor with Github" src="https://img.shields.io/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=github&logoColor=white"/></a>
   </p>
 
 
