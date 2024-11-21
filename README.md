@@ -54,7 +54,7 @@ https://raw.githubusercontent.com/TTDNS/Cat/refs/heads/main/DNS.TXT
 ```
 📒 合并多规则（推荐）
 ```
-https://github.com/TTDNS/Cat/raw/refs/heads/main/Kato.txt
+https://raw.gitmirror.com/TTDNS/Cat/refs/heads/main/Kato.txt
 ```
 
 </ul>
