@@ -68,7 +68,6 @@
 #京东广告
 
 ||mapi.m.jd.com^
-||api.m.jd.com^
 ||uranus.jd.com^
 ||addata.jd.com^
 ||wl.jd.com^
