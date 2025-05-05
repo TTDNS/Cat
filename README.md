@@ -52,7 +52,7 @@ DNS规则
 ```
 https://raw.githubusercontent.com/TTDNS/Cat/refs/heads/main/DNS.TXT
 ```
-📒 合并多规则（推荐）
+📒 合并多规则（不在更新）
 ```
 https://raw.gitmirror.com/TTDNS/Cat/refs/heads/main/Kato.txt
 ```
